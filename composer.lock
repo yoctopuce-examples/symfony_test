@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "b184ca700fecdaee9df358903fecf7a4",
+    "content-hash": "730ee1d79bba73cd03d0f56ee2f36228",
     "packages": [
         {
             "name": "composer/package-versions-deprecated",
@@ -6042,6 +6042,42 @@
                 "validate"
             ],
             "time": "2020-07-08T17:02:28+00:00"
+        },
+        {
+            "name": "yoctopuce/yoctolib_php",
+            "version": "v1.10.42060",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/yoctopuce/yoctolib_php.git",
+                "reference": "24a380ac2a3c97259b775a22abc68f9ca7c4a1a1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/yoctopuce/yoctolib_php/zipball/24a380ac2a3c97259b775a22abc68f9ca7c4a1a1",
+                "reference": "24a380ac2a3c97259b775a22abc68f9ca7c4a1a1",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "classmap": [
+                    "Sources/"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "proprietary"
+            ],
+            "authors": [
+                {
+                    "name": "Yoctopuce",
+                    "email": "dev@yoctopuce.com",
+                    "homepage": "https://www.yoctopuce.com/",
+                    "role": "Developer"
+                }
+            ],
+            "description": "Libraries for connecting with Yoctopuce components via a running VirtualHub.",
+            "homepage": "https://www.yoctopuce.com/",
+            "time": "2020-10-15T07:48:49+00:00"
         }
     ],
     "packages-dev": [

@@ -516,5 +516,8 @@
     },
     "webmozart/assert": {
         "version": "1.9.1"
+    },
+    "yoctopuce/yoctolib_php": {
+        "version": "v1.10.42060"
     }
 }
